@@ -1,0 +1,22 @@
+nav{
+    padding: 40px 0;
+}
+
+.link{
+    padding: 15px 25px;
+    margin: 20px 10px;
+    color: white;
+    background-color: #1E1E1E;
+}
+.link.active{
+    color: white !important;
+    background-color: #010101;
+    border-radius: 25px 0 25px 0;
+}
+
+.link:hover{
+    /* padding: 15px 25px;
+    margin: 0 10px; */
+    color: white;
+    background-color: #010101;
+}
